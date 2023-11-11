@@ -29,7 +29,7 @@ Pretendo desenvolver soluções para problemas relacionados ao negócio de sanea
 
 [![](https://img.shields.io/badge/Linkedin--blue)](https://www.linkedin.com/in/alessandroxyz)
 [![](https://img.shields.io/badge/Medium--blue)](https://alessandrogonzalez.medium.com)
-[![](https://img.shields.io/badge/Blog--blue)](http://alessandrogonzalez.blogspot.com)
+[![](https://img.shields.io/badge/Blog--blue)](http://alessandrogonzalez.com.br)
 
 #
 
